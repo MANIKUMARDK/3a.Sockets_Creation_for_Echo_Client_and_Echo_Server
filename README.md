@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS:
+## REG NO:212223230121
+## NAME:MANIKUMAR.DK
 # AIM:
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -33,7 +35,10 @@ while True:
     print("server>",s.recv(1024).decode())
 ```
 ## OUTPUT:
-![image](https://github.com/MANIKUMARDK/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147215581/814e3ad2-c127-4f56-ac53-43ab7d4be7d5)
+## CLIENT:
+![image](https://github.com/MANIKUMARDK/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147215581/92ba1f26-b86c-4296-b50a-af8f022c10e8)
+## SERVER:
+![image](https://github.com/MANIKUMARDK/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147215581/523bff8d-e494-461a-9bf1-4e4b60a40a30)
 
 ## RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
